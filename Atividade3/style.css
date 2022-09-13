@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to bottom, #ff99cc,#ff1a8c, #99004d, #990073, #e600ac);
+    padding-left: 270px;
+    padding-right: 270px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pag1{
+    background-color: white;
+    border: 1px solid gray;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.pag{
+    background-color: white;
+    border: 1px solid gray;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#titulo{
+    font-size:x-large;
+}
+
+#nome{
+    padding-right: 5%;
+}
+
+.subtitulo{
+    padding-left: 5%;
+}
+
+.npg{
+    color:grey;
+    font-size: small;
+}
+
+.texto{
+    text-align: justify;
+    line-height: 1px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
