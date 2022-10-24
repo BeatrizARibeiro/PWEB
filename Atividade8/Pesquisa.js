@@ -1,4 +1,4 @@
-var cont = 2;//45 pessoas na pesquisa
+var cont = 45;//45 pessoas na pesquisa
 var mediaIdade = 0, valId = 0,maisVelho = 0, maisNovo = 200, qtdePessimo = 0, qtdeOt = 0, qtdeBm = 0, perOt = 0, perBm = 0, mulher = 0, homem = 0, valId = 0;
 
 alert("💗 Iniciando Pesquisa 💗");
