@@ -1,14 +1,14 @@
 var cont = 45;//45 pessoas na pesquisa
 var mediaIdade = 0, valId = 0,maisVelho = 0, maisNovo = 200, qtdePessimo = 0, qtdeOt = 0, qtdeBm = 0, perOt = 0, perBm = 0, mulher = 0, homem = 0, valId = 0;
 
-alert("Iniciando Pesquisa");
+alert("💗 Iniciando Pesquisa 💗");
 for (var i = 0; i < cont; i++) {
     
     var idade, sexo, opiniao, n, id;
 
-    idade = prompt("Pessoa " + i+1 + "\nDigite a Idade: ");
-    sexo = prompt("Pessoa " + i+1 + "\nF - Feminino\nM - Masculino\n\nDigite o Sexo: ");
-    opiniao = prompt("Pessoa " + +1 + "\n4 - Ótimo\n3 - Bom\n2 - Regular\n1 - Péssimo\n\nDigite a Opinião: ");
+    idade = prompt("Pessoa " + (i+1) + "\nDigite a Idade: ");
+    sexo = prompt("Pessoa " + (i+1) + "\nF - Feminino\nM - Masculino\n\nDigite o Sexo: ");
+    opiniao = prompt("Pessoa " + (i+1) + "\n4 - Ótimo\n3 - Bom\n2 - Regular\n1 - Péssimo\n\nDigite a Opinião: ");
 
     n = parseInt(opiniao);
     id = parseInt(idade);
