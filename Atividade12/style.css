@@ -1,0 +1,14 @@
+#all{
+    text-align: center;
+}
+
+#mensagem{
+    font-family: sans-serif;
+    color: blue;
+}
+
+#img{
+    width: 200px;
+    top: auto;
+    margin-top: 0;
+}
