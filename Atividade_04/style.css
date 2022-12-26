@@ -1,0 +1,105 @@
+
+body {
+    background: #1c022e url(img/vamos.jpg);
+    
+    background-repeat: no-repeat;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+    sans-serif;
+    line-height: 1.5;
+    background-size: cover;
+    background-attachment: scroll;
+  }
+  
+  
+  .container {
+  margin: 0 auto;
+  width: 960px;
+  }
+  
+  article {
+  background-color: rgb(0, 0, 0);
+  border: 0.1px solid #CCC;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+  opacity : 0.8;
+  color: #ffffff;
+   /* espaçamento entre a borda e o título */
+  }
+  
+  
+  article h2 {
+  text-shadow: rgb(71, 14, 204) 0.07em 0.07em 0.15em;
+  margin: 0;
+  }
+  
+  article img {
+  border: 0.1px solid #ffffff;
+  float: left;
+  margin: 10px 10px 0 0;
+  padding: 2px;
+  width: 160px;
+  height: 160px;
+  border-radius: 5px;
+  }
+  
+  .aiai{
+    font-size: 5px;
+  }
+  
+  
+  .clear { /* para a imagem nao "ficar fora" quando usa o float */
+  clear: both;
+  }
+  
+  footer {
+  font-size: 12px;
+  text-align: center;
+  }
+  
+  section { /* para a barra lateral lista e titulo */
+  float: left;
+  width: 660px;
+  }
+  
+  aside {
+  background-color: #050002;
+  border: 1px solid #C9BC8F;
+  padding: 10px;
+  float: right;
+  width: 260px;
+  color: white;
+  opacity : 0.8;
+  border-radius: 5px;
+  }
+
+  #espaco{
+    padding: 10px;
+    float: right;
+    width: 60px;
+  }
+  
+  aside h3 {
+  text-shadow: rgb(247, 0, 136) 0.1em 0.1em 0.2em;
+  font-size: 14px;
+  margin-top: 0;
+  }
+
+  aside li{
+    font-size: 12px;
+  }
+  
+  aside ol {
+  font-size: 12px;
+  }
+
+  
+  h1{color: white; 
+    text-shadow: black 0.3em 0.3em 0.4em;
+}
+
+footer 
+{
+    color: white;
+}
+  
