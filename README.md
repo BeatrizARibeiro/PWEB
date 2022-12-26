@@ -1,4 +1,4 @@
-# 🌸 Programação para WEB 🌸
+# 🌸 Programação para Web 🌸
 
 ## ADS - 4 Semestre
 
